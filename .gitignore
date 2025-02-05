@@ -1,3 +1,6 @@
 Pipfile
 *.lock
 .idea
+.env
+*.csv
+*.txt
